@@ -1,0 +1,1 @@
+El ejercicio 1 es un meno que se integran diferentes funcionalidades de comandos de monitorizacion. Si se introduce un numero que no esta en el menu se reiniciara en 5 segundos.
