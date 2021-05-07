@@ -1,0 +1,51 @@
+* commit 2aeac6c9f9134010402c68011d5657de089d6f97 (HEAD -> master, origin/master, Rama_ejercicio2)
+| Author: BigFishCHM <jlcarrera33@gmail.com>
+| Date:   Fri May 7 10:20:05 2021 +0200
+| 
+|     Caputra del funcionamiento del 2
+| 
+* commit e1c5cedc96fd63010a6b327ca07a35ca396bc138
+| Author: BigFishCHM <jlcarrera33@gmail.com>
+| Date:   Fri May 7 10:18:18 2021 +0200
+| 
+|     Añadimos la descripcion del ejercicio2
+| 
+* commit dc8e53a3a9d090d227ce8d6740c820f3bd707a99
+| Author: BigFishCHM <jlcarrera33@gmail.com>
+| Date:   Fri May 7 10:16:04 2021 +0200
+| 
+|     Subida la captura 2
+| 
+* commit ad86625229bd787b1b73629019488fe7c4a2600f
+| Author: BigFishCHM <jlcarrera33@gmail.com>
+| Date:   Fri May 7 10:15:57 2021 +0200
+| 
+|     Subida la captura 1
+| 
+* commit b49e26aadd7420b50892b6a84eb85c5cea2d9aea
+| Author: BigFishCHM <jlcarrera33@gmail.com>
+| Date:   Fri May 7 10:15:41 2021 +0200
+| 
+|     Subida la captura de funcionamiento
+| 
+* commit 5737391991df16f0dfa064e5ac725b5a602465e0
+| Author: BigFishCHM <jlcarrera33@gmail.com>
+| Date:   Fri May 7 10:12:16 2021 +0200
+| 
+|     Cambiamos el archivo
+| 
+* commit d772d44bbed297c4f0f1229317c38048acd3d6bc
+  Author: BigFishCHM <jlcarrera33@gmail.com>
+  Date:   Fri May 7 10:09:44 2021 +0200
+  
+      Añadimos la descripcion
+2aeac6c HEAD@{0}: merge Rama_Ejercicio2: Fast-forward
+dc8e53a HEAD@{1}: checkout: moving from Rama_ejercicio2 to master
+2aeac6c HEAD@{2}: commit: Caputra del funcionamiento del 2
+e1c5ced HEAD@{3}: commit: Añadimos la descripcion del ejercicio2
+dc8e53a HEAD@{4}: checkout: moving from master to Rama_ejercicio2
+dc8e53a HEAD@{5}: commit: Subida la captura 2
+ad86625 HEAD@{6}: commit: Subida la captura 1
+b49e26a HEAD@{7}: commit: Subida la captura de funcionamiento
+5737391 HEAD@{8}: commit: Cambiamos el archivo
+d772d44 HEAD@{9}: commit (initial): Añadimos la descripcion
