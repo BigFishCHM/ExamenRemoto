@@ -1,0 +1,1 @@
+El ejercicio 2 es un programa para introducir iteraciones del bucle y evaluar una orden.
